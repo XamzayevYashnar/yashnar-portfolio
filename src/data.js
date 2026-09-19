@@ -48,17 +48,17 @@ export const projects = [
   },
   {
     name: "najot-talim-erp",
-    title: "Najot Talim ERP",
+    title: "Najot Ta'lim ERP",
     description: "O'quv markazi uchun full-stack boshqaruv tizimi — guruhlar, o'qituvchilar va to'lovlar.",
     tags: ["TypeScript", "Node.js", "React"],
     repo: "https://github.com/XamzayevYashnar/Najot-Talim-ERP-Full-Stack",
   },
   {
     name: "uzum-market-clone",
-    title: "Uzum Market Clone",
+    title: "Uzum Market Marketplace",
     description: "Marketplace platformasi: mahsulot katalogi, savat va buyurtma jarayoni.",
     tags: ["Node.js", "JavaScript", "PostgreSQL"],
-    repo: "https://github.com/XamzayevYashnar/Uzum-Market-on-Node-JS-Full-Stack-",
+    repo: "https://github.com/XamzayevYashnar/uzum-marketplace-nest.js",
   },
   {
     name: "crm-barber",

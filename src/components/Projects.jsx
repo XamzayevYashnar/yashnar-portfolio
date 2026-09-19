@@ -5,7 +5,8 @@ export default function Projects() {
     <section id="projects" className="section">
       <div className="gutter">15<br />16<br />17<br />18<br />19</div>
       <div className="section-body">
-        <p className="section-path">projects/</p>
+        <p className="section-path"><a href="https://github.com" target="_blank" rel="noopener noreferrer">projects/</a></p>
+
         {projects.map((p) => (
           <a
             className="project-row"
